@@ -2,11 +2,6 @@
 
 ### Real-Time SSH Brute-Force Detection & Automated IP Blocking System
 
-
-
-\
-
-
 **Linux Log Sentinel** is a Python-based security monitoring tool that continuously monitors Linux authentication logs to detect suspicious SSH login activities and potential brute-force attempts.
 
 It identifies repeated failed login attempts, tracks suspicious IP addresses, and automatically applies temporary firewall blocks. It also generates structured JSON alerts that can be used for security monitoring and log analysis.
